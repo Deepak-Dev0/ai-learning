@@ -1,1 +1,1 @@
-print("Hello AI World")
+print("Hello AI World - Day 1")
